@@ -1,0 +1,5 @@
+{
+  "name": "Smart Label Creator",
+  "description": "AI-powered shipping label generator optimized for 4x6 thermal printers and PDF saving.",
+  "requestFramePermissions": []
+}
